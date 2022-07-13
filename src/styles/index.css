@@ -10,3 +10,13 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
+
+.bigCounter div {
+    padding: 7px;
+    
+}
+.one {
+    color: rgb(83, 209, 255)
+}
